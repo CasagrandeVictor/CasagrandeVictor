@@ -1,5 +1,5 @@
 # VictorCasagrande
-## Oiii eu sou o Victor Casagrande, Estudante de Engenharia de Software!
+## Olá! eu sou o Victor Casagrande, Estudante de Engenharia de Software!
 
 
 ![CasagrandeVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=CasagrandeVictor&show_icons=true&theme=default)
