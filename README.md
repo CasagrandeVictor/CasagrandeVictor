@@ -2,8 +2,8 @@
 ## Oiii eu sou o Victor Casagrande, Estudante de Engenharia de Software!
 
 
-![CasagrandeVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![CasagrandeVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=CasagrandeVictor&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasagrandeVictor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
